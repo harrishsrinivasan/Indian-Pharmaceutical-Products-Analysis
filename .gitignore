@@ -16,9 +16,3 @@ __pycache__/
 .env
 *.env
 
-<<<<<<< HEAD
-# Data files (optional if private or large)
-data/
-=======
->>>>>>> 5b0f892 (gitignore has been updated)
-
