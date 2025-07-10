@@ -16,3 +16,6 @@ __pycache__/
 .env
 *.env
 
+# Data files (optional if private or large)
+data/
+
